@@ -15,11 +15,12 @@
 
 В этом репозитории собраны мои учебные и практические проекты: примеры тест-кейсов, баг-репортов и базовые автотесты.
 
-Ищу позицию **Junior QA Engineer** в продуктовой или аутсорс-команде. Готов к интенсивной работе, разбору сложных кейсов и быстрому погружению в проект под руководством опытных коллег.
-
-Готов учиться у опытных коллег, осваивать новые подходы и расти 🏆
+Ищу позицию **Junior QA Engineer** в продуктовой или аутсорс-команде. Готов к интенсивной работе, разбору сложных кейсов и быстрому погружению в проект под руководством опытных коллег.🏆
 
 
 ## 📱 Связаться со мной:
-- [Резюме на hh.ru](https://spb.hh.ru/resume/2b1679ffff0f7438860039ed1f6139656d534d)
-- [Telegram](https://t.me/itsveronika_K)
+- [Резюме на hh.ru](https://krasnodar.hh.ru/resume/0ecc579aff1081e5440039ed1f456f42564a43)
+- [Telegram](https://t.me/Pingvine191)
+
+## 🛠Языки и инструменты:
+`TestIT` `Qase.io` `Sitechko` `Postman` `JMeter` `Git` `SQL` `SOAPUI` `HTML` `CSS` `DevTools` `Charles` `PostgreSQL` `Sitechko` `Jira` `Confluence` `PyCharm` `Visual Studio Code` `Swagger` `Miro` `pgAdmin` `Yonote`
